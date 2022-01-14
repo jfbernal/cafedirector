@@ -1,5 +1,6 @@
 supplies
-Test 1
+Test 1
+Test 2
 supplyID
 supplyname
 supplydescription
